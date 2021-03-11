@@ -1,0 +1,24 @@
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\RemoteTestingApp.Core.deps.json
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\RemoteTestingApp.Core.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\ref\RemoteTestingApp.Core.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\RemoteTestingApp.Core.pdb
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.csprojAssemblyReference.cache
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.AssemblyInfoInputs.cache
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.AssemblyInfo.cs
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\ref\RemoteTestingApp.Core.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\RemoteTestingApp.Core.deps.json
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\RemoteTestingApp.Core.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\ref\RemoteTestingApp.Core.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\bin\Debug\net5.0\RemoteTestingApp.Core.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.csprojAssemblyReference.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.AssemblyInfoInputs.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.AssemblyInfo.cs
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\ref\RemoteTestingApp.Core.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Core\obj\Debug\net5.0\RemoteTestingApp.Core.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMoYkJnhc2c9cl5OearR6jX7SZnQLbkVbViEHefK8LrPjfePMKESZNKQL5NdBiG/3txu8qXigs+CUMwqJX+bAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChiamakaUzuegbu\\OneDrive - Enov8 Solutions Ltd\\Desktop\\Test\\RemoteTestingApp.Core\\RemoteTestingApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChiamakaUzuegbu\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.4\\microsoft.aspnetcore.http.features.5.0.4.nupkg.sha512",
+    "C:\\Users\\ChiamakaUzuegbu\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\ChiamakaUzuegbu\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

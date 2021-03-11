@@ -1,0 +1,5 @@
+------------------------------------------------------------------------------------
+Event Time: 03:09:15 | The property 'UploadedDocument.WaecCertificate' is of an interface type ('IFormFile'). If it is a navigation, manually configure the relationship for this property by casting it to a mapped entity type. Otherwise, ignore the property using the [NotMapped] attribute or 'EntityTypeBuilder.Ignore' in 'OnModelCreating'. An error occured during migrations
+
+------------------------------------------------------------------------------------
+

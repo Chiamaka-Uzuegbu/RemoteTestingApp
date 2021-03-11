@@ -1,0 +1,40 @@
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.deps.json
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.runtimeconfig.json
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\ref\RemoteTestingApp.Infrastructure.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.pdb
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\PasswordHasherandJwtTokenProvider.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Core.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\PasswordHasherandJwtTokenProvider.pdb
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Core.pdb
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.AssemblyInfo.cs
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.csproj.CopyComplete
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\ref\RemoteTestingApp.Infrastructure.dll
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.pdb
+C:\Users\adeba\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.genruntimeconfig.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.deps.json
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.runtimeconfig.json
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.runtimeconfig.dev.json
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\ref\RemoteTestingApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Infrastructure.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\PasswordHasherandJwtTokenProvider.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Core.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\PasswordHasherandJwtTokenProvider.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\bin\Debug\net5.0\RemoteTestingApp.Core.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.AssemblyInfo.cs
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.csproj.CopyComplete
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\ref\RemoteTestingApp.Infrastructure.dll
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.pdb
+C:\Users\ChiamakaUzuegbu\OneDrive - Enov8 Solutions Ltd\Desktop\Test\RemoteTestingApp.Infrastructure\obj\Debug\net5.0\RemoteTestingApp.Infrastructure.genruntimeconfig.cache
