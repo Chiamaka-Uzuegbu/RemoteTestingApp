@@ -1,0 +1,17 @@
+App Name: Remote Testing Application
+
+Architecture: Clean Architecture
+DataBase: SQL
+ORM(Object Relational Mapper): Entity Framework
+Framework: ASP.NET Core Web Api
+Unit Test: X-Unit
+Version Control: Git
+Repository: Github
+Brief/Module Choosen: Successful Candidate
+
+This brief describes a job applicant who has accessed the company test dashboard for the remote testing, have been allowed to
+take the test by the company test Admin and has been declared successful after the results were collated.
+They first of all register, or sign-in for one who has registered before. They fill in their personal
+details which will be verified. They are subsequently lead to review and sign company documents that will
+be presented to them at this stage. They will be required to upload their certificates which will be an Ifile.
+After this, they can now access the workspace and dashboard.
